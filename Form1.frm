@@ -19,3 +19,4 @@ Option Explicit
 
 ' commited with
 ' AutoCrLf: on
+' AutoCrLf: off
